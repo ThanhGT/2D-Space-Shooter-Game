@@ -10,9 +10,7 @@ This 2D Space Shooter game has the following features:
 6. UI Screens
 
 Gameplay:
-The player is able to move the spaceship around with A, W, S, D keys and shoot asteroids using the SPACE bar. Colliding with an asteroid will cause your ship to be destroyed and respawn at coordinates (0,0). Pickups such
-as shields and hearts will provide the player with a shield that makes the players invincible for 10 seconds and health packs which will provide the player with additional lives. 
-Enemy ships are to be destroyed or avoided by the player. Each ship destroyed grants the player points depending on the asteroids size. Once all asteroids are destroyed, the
+The player is able to move the spaceship around with A, W, S, D keys and shoot asteroids using the SPACE bar. Colliding with an asteroid will cause your ship to be destroyed and respawn at the center of the screen and you will lose a life. Pickups such as shields and hearts will provide the player with a shield that makes the players invincible for 10 seconds and health packs which will provide the player with additional lives. Enemy ships are to be destroyed or avoided by the player. Each ship destroyed grants the player points depending on the asteroids size. Once all asteroids are destroyed, the
 game is finished and you are presented your score.
 
 Development:
